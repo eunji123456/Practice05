@@ -25,13 +25,13 @@ public class FriendApp {
     
     	}
 
-    /*	for(int i1=0;i1<FriendList.size();i1++) {
+    	for(int i1=0;i1<FriendList.size();i1++) {
     		FriendList.get(i1).showInfo();
-    	}*/
-    	
-    	for(Friend f :FriendList) {
-    		System.out.println(f.showInfo());
     	}
+    	
+    	/*for(Friend f :FriendList) {
+    		System.out.println(f.showInfo());
+    	}*/
     }
 
 }
