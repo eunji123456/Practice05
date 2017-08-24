@@ -27,7 +27,7 @@ public class GoodsApp {
     		count += glist.get(i).count();
     	}
     	System.out.println("갯수는 : " +count+"개입니다.");
-       
+       sc.close();
     }
 
 }

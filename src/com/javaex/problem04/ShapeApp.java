@@ -1,12 +1,10 @@
 package com.javaex.problem04;
 
-import java.util.ArrayList;
-import java.util.List;
 
 public class ShapeApp {
 
     public static void main(String[] args) {
-        List<Shape> sList = new ArrayList<Shape>(); 
+/*        List<Shape> sList = new ArrayList<Shape>(); 
         
         Shape r= new Rectangle( 5, 6 );
         Shape t= new RectTriangle( 6, 2 );
@@ -25,7 +23,7 @@ public class ShapeApp {
                 System.out.println( "new area: " + sList.get(i).getArea() );
                 System.out.println( "new perimeter: " + sList.get(i).getPerimeter() );
             }
-        }
+        }*/
         
     }
 }

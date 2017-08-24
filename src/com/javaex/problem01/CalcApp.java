@@ -41,8 +41,9 @@ public class CalcApp {
 				sub.setValue(Integer.parseInt(sarray[0]), Integer.parseInt(sarray[2]));
 				System.out.println(">>" + sub.Calculate());
 				break;
-				
+			
 			}
 		}
+		sc.close();
 	}
 }

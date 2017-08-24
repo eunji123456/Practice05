@@ -32,6 +32,7 @@ public class FriendApp {
     	/*for(Friend f :FriendList) {
     		System.out.println(f.showInfo());
     	}*/
+        sc.close();
     }
 
 }
